@@ -5,8 +5,8 @@ em seus discursos na Câmara Federal no ano de 2019.
 
 ## Início
 
-Ao baixar/clonar o repositório certifique-se de que as bibliotecas necessárias estão instaladas e o ambiente está
-pronto. Depois basta rodar o script makeWordCloud.py, a imagem com o word cloud será gerada como  wordcloudBR.png
+Ao baixar/clonar o repositório instale as bibliotecas necessárias antes de rodar o script.
+Depois basta rodar o script makeWordCloud.py, a imagem com o word cloud será gerada como wordcloudBR.png
 
 ### Prerequisitos
 
@@ -20,11 +20,10 @@ Para que o script funcione corretamente são necessárias, além de um interpret
 * [numpy 1.18.1](https://numpy.org/)
 * [wordcloud 1.6.0](http://amueller.github.io/word_cloud/index.html)
 
-Caso essas bibliotecas não estejam instaladas, é possivel instala-las usando o comando:
+Para fazer a instalação das bibliotecas basta executar o comando:
 ```
-pip3 install biblioteca
+pip3 install -r requirements.txt
 ```
-
 ### Gerando o word cloud parlamentar 
 
 Para gerar o word cloud parlamentar basta rodar o seguinte comando:
