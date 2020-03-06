@@ -33,7 +33,7 @@ python3 makeWordCloud.py
 ```
 ## Versão
 
-Esta é primeira versão do projeto, acompanhe a evolução do projeto [aqui](https://github.com/gui-lourenco/WordCloud/). 
+Esta é primeira versão do projeto, acompanhe a evolução do projeto [aqui](https://github.com/gui-lourenco/WordCloudParlamentar/). 
 
 ## Autor
 
