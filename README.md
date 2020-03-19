@@ -8,7 +8,7 @@ em seus discursos na Câmara Federal no ano de 2019.
 Ao baixar/clonar o repositório instale as bibliotecas necessárias antes de rodar o script.
 Depois basta rodar o script makeWordCloud.py, a imagem com o word cloud será gerada como wordcloudBR.png
 
-### Prerequisitos
+### Pré-requisitos
 
 Para que o script funcione corretamente são necessárias, além de um interpretador python 3, as seguintes bibliotecas:
 
